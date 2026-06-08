@@ -1,54 +1,491 @@
-# Ada-Wong
-OK
-So today i have to do:
-1. input and output from tk,tkinter and pass that input output to different screens! 
-2. how to pass arguments when button cliked and transitioing into another screen?
-3. Research on size of screen , means how to fix the screen size.
-4. learn how to change screen color and make it transparant!
-5. Research how to stick the main screen(ada) to top-right-corner and how to get the screen-size (so that we can defined corner clerly for even diff size of screens)
-6. How to remove the cross-minimize-and-full-screen icons from the screen.
-7. how to create customized screen-frame 
-8. can screen or widget be Circulaer or in any-shape?
-9. How to make the output screen fonts to be in RPG 
-10. Make sure the output screen comes in center (by-default) - its like a console kind of feeling text should be displayed like ai modesl display character by charater. [With extra animations and desingns like: Fluctuations, signal loss and come back instantly and like a voci tocki sound-cutts and all] Should feel like the game, Do creativiy... but also maintain the functionality and CUSTOMIZABLE
-11. all screens and there fonts, backgroaud and positions should be customizable.
-12. run gemma 4 and integrate it and test with input output,
-13. once text based in/ot is funtional then start workin gon voice! first use the basic voice and then try existing ada kind of voice from internet and then in next pahses try to clone the voice.
-14. once vice in/ot done then try on webcame and able to see us(out hands, our geastures, our face, our facial expresions) 
-15. once able to recognize us then try to make outputs based on facial expresions and all, like middle-finger meansing and clapping, and from face also, can able to detect -Sadness, -Curiosity, -Love, -Happiness, -Joy, -Anger, -Cuteness, -Looks.
-16. once this all done then start working on fine-tuning the gemma outputs to have Ada's style.
-17. Research on Ada Wong character in resident evil (offical sites and researched sites) or get them by self by analyzeing her tones and naming them the traits shee have and some  of her- "TAKYAKALAM" -means some lines of her that we love as a resident evil fans.
-18. Then we have to make ada Exportable and importable, means we shouldb have a ada's soul file for us, like memory and all,
-19. desing ada's memory, try what we are sending to ada and what assumtions ada making for us and then store this relations in a structerd or kind of way, in a file and then make it exporatble and importable so that in new pc if i install the app againa and import ada's soul file then she will be alive here as she is in other pc.
-20. understand how soul file integrate with the ai model?? 
-21. if needed create small-small models for ada's intelegence or brain(we want) like what we want that ada's should be capable of??
-22. if so then train that maodels by self and test and then integrate all models to form ADA'S BRAIN and  her skills.
-23. Focus on realism let her take her nap's sleep time and  private time. Yah i am not jocking abobut this.
-24. make her time untouchbale means you can't say dont take nap or sleep or just leave me right now.
-25. ada's best part is that she comes and she goes, she nevers stays for a long time with us.
-26. I want her to go and come in times when we need her the most or vice versa.
-27. IMP: Ada should be live in background still seeing us, and calculating when to show up, and when to not, and if it't the right time shee will be in the display automatically and its like magic! that how cool she came automaticly when we needed her or not needed here jsut came to make JOKE of us, ha, ha, etc kind of flirting and joy.
+# 🌌 Ada Wong
 
-//IMPORTANT: i found this feature so cool and new and will be the Realism:
-	SO that feature is: She does't able to be in screen right-top-corner always.
-	She see us from backgroud and "HEAR" us also, but it's depends on her to come in screen and have a talk.
-	Not you can call her.
-	So by-deafult she is not in the screen at all.
-	But we havea to make sure that this happens seamlessly.
-	and also we shoulbd focus on making her entry a dhasu one, means jhakas entry, cool-entry in screen
-	when she enters screen fluctualtes like signal lots and come jsut in a secound, 
+> The World's First Persistent AI Companion
 
-	Most-Imp:
-	she can also potentialy come in the center of screen in bigger display sometimes, when things are imp
-	and also can take full screen mode. yah full screen modes also not like full-full screen but a larger then usuale like 70% of the screen 
+## What is Ada Wong?
 
-	She comes and she go fastly does't stays long, and her window or display where she displatyed will be auto-matially closed , so you can' cloese it and don't worry we will add customization for that also.
+Ada Wong is an AI companion designed to live alongside its user across years of learning, building, working, creating, and growing.
 
-	But don't worry she will do this only when ther is no risk:
-		i mean she can get disable when there is your exams or tests or interviews online and all kind of that.
-		Actually she is mature.
+Unlike traditional AI assistants that only answer questions, Ada remembers projects, attends meetings, tracks learning progress, manages tasks, understands context, automates workflows, and follows the user across devices through a portable Soul File system.
 
+---
 
-Let's do it, it's JLSS Corporation,
+## The Problem
 
-This is Worlds first Emotional intelgent Ai model, Created by JLSS Co-Orporation.
+Modern AI assistants have a major limitation:
+
+- They forget.
+- They don't understand your long-term goals.
+- They don't remember your projects.
+- They don't follow you between devices.
+- They don't build a relationship with you.
+
+Every conversation starts from scratch.
+
+---
+
+## The Solution
+
+Ada Wong is designed to:
+
+✓ Remember
+
+✓ Understand
+
+✓ Assist
+
+✓ Organize
+
+✓ Reflect
+
+✓ Grow
+
+alongside the user.
+
+---
+
+# Core Features
+
+## 💬 Intelligent Chat
+
+- Natural conversations
+- Coding assistance
+- Learning support
+- Research support
+- Problem solving
+- Project discussions
+
+---
+
+## 🎤 Voice Interaction
+
+- Speech-to-text
+- Text-to-speech
+- Voice conversations
+- Push-to-talk
+- Future wake-word support
+
+---
+
+## 🧠 Long-Term Memory
+
+Ada remembers:
+
+- Conversations
+- Tasks
+- Goals
+- Projects
+- Notes
+- Learning history
+- Resources
+- Preferences
+
+---
+
+## 🧬 Soul File System
+
+One of Ada's most important features.
+
+A Soul File stores:
+
+- Memories
+- Projects
+- Tasks
+- Learning history
+- Preferences
+- Relationship timeline
+- Personality state
+
+Example:
+
+Home PC
+↓
+Export Soul
+↓
+jeet.soul
+↓
+College PC
+↓
+Import Soul
+↓
+Same Ada
+
+One Companion.
+Many Devices.
+One Journey.
+
+---
+
+## 📚 Learning Companion
+
+Ada tracks:
+
+- Courses
+- Videos
+- Books
+- Roadmaps
+- Skills
+
+Features:
+
+- Learning analytics
+- Progress tracking
+- Resource recommendations
+- Study reports
+
+---
+
+## 💻 Coding Companion
+
+- Code explanation
+- Debugging assistance
+- Project tracking
+- Architecture discussions
+- Technology recommendations
+
+---
+
+## 📅 Meeting Assistant
+
+Ada can:
+
+- Record meetings
+- Transcribe meetings
+- Generate summaries
+- Extract action items
+- Track decisions
+
+---
+
+## ⚙️ Workflow Automation
+
+Ada can:
+
+- Open applications
+- Launch workspaces
+- Restore projects
+- Manage files
+- Automate repetitive tasks
+
+---
+
+## 👀 Workspace Awareness
+
+Ada understands:
+
+- Active applications
+- Browser activity
+- Coding sessions
+- Learning sessions
+- Development environments
+
+---
+
+## 🌙 Daily Reflections
+
+Every day Ada generates:
+
+- Productivity summaries
+- Learning summaries
+- Meeting summaries
+- Goal progress reports
+
+---
+
+## 🧩 Personal Knowledge Base
+
+Ada builds a searchable memory system containing:
+
+- Notes
+- Meetings
+- Projects
+- Resources
+- Conversations
+- Learning material
+
+---
+
+## 🔍 Personal Search Engine
+
+Search across:
+
+- Memories
+- Projects
+- Meetings
+- Notes
+- Tasks
+- Learning history
+
+from one interface.
+
+---
+
+## 📈 Project Historian
+
+Ada remembers:
+
+Project Start
+↓
+Problems
+↓
+Solutions
+↓
+Progress
+↓
+Completion
+
+Even years later.
+
+---
+
+## 🕒 Relationship Timeline
+
+Ada tracks:
+
+- Achievements
+- Milestones
+- Learning journeys
+- Career progress
+- Shared history
+
+---
+
+# Character System
+
+Ada is only the first companion.
+
+Future character support includes:
+
+- Different personalities
+- Different appearances
+- Different voices
+- Different dialogue styles
+
+Examples:
+
+- Ada Wong
+- Teacher
+- Commander
+- Scientist
+- Engineer
+- Mentor
+
+---
+
+# Character Marketplace
+
+Future support for:
+
+- Character Packs
+- Voice Packs
+- Animation Packs
+- Personality Packs
+- Themes
+
+---
+
+# Character Licensing
+
+Users may:
+
+✓ Customize
+
+✓ Resize
+
+✓ Change appearance
+
+✓ Change settings
+
+Users may not:
+
+✗ Resell
+
+✗ Redistribute
+
+✗ Clone marketplace assets
+
+---
+
+# Personality Engine
+
+Ada is designed to be:
+
+- Intelligent
+- Strategic
+- Observant
+- Calm
+- Witty
+- Helpful
+
+Instead of simply giving answers, Ada aims to help users grow.
+
+---
+
+# Emotional Engine
+
+Emotional states include:
+
+- Focused
+- Curious
+- Playful
+- Serious
+- Concerned
+- Reflective
+
+---
+
+# Realism Engine
+
+The realism engine is responsible for:
+
+- Idle animations
+- Eye movement
+- Expressions
+- Contextual reactions
+- Dynamic positioning
+- Body language
+
+Future:
+
+- Live2D
+- Advanced animation
+- Full 3D support
+
+---
+
+# Security & Privacy
+
+Core principles:
+
+- User owns their data
+- Local-first architecture
+- Encrypted Soul Files
+- Full export capability
+- Full deletion capability
+
+---
+
+# System Architecture
+
+User
+↓
+Ada Interface
+↓
+AI Engine
+├── Chat
+├── Voice
+├── Memory
+├── Soul Engine
+├── Tasks
+├── Learning
+├── Meetings
+├── Workspace
+├── Automation
+└── Reflections
+
+---
+
+# Tech Stack
+
+Frontend:
+- Python
+- PyQt6
+
+AI:
+- Ollama
+- Qwen
+- Gemma
+
+Voice:
+- Whisper
+- Piper
+
+Database:
+- SQLite
+
+Automation:
+- Playwright
+- PyAutoGUI
+
+System Awareness:
+- psutil
+- pywin32
+
+Packaging:
+- PyInstaller
+
+---
+
+# Development Phases
+
+V1 – Foundation
+
+- Desktop UI
+- Chat
+- Voice
+- Basic memory
+
+V2 – Memory
+
+- Tasks
+- Goals
+- Soul Files
+
+V3 – Companion
+
+- Reflections
+- Relationship timeline
+
+V4 – Awareness
+
+- Workspace awareness
+- Context understanding
+
+V5 – Learning
+
+- Skill tracking
+- Resource recommendations
+
+V6 – Meetings
+
+- Transcription
+- Summaries
+
+V7 – Automation
+
+- Workflow automation
+- Workspace restoration
+
+V8 – Characters
+
+- Character system
+- Marketplace
+
+V9 – Realism
+
+- Live2D
+- Presence system
+
+V10 – Operating Intelligence
+
+- Multi-agent support
+
+V11 – Soul Network
+
+- Soul synchronization
+- Soul merge
+
+V12 – Companion Evolution
+
+- Long-term adaptation
+- Advanced continuity
+
+---
+
+# Long-Term Goal
+
+Ada Wong aims to become a persistent AI companion capable of accompanying a user through years of learning, building, working, creating, and growing while preserving memories, projects, knowledge, and personal history through a portable Soul system.
+
+Not just an assistant.
+
+A companion.
