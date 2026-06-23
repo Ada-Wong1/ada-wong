@@ -1,4 +1,4 @@
-# 🌌 Ada Wong
+#  Ada Wong
 
 > The World's First Persistent AI Companion
 
@@ -46,7 +46,7 @@ alongside the user.
 
 # Core Features
 
-## 💬 Intelligent Chat
+##  Intelligent Chat
 
 - Natural conversations
 - Coding assistance
@@ -57,7 +57,7 @@ alongside the user.
 
 ---
 
-## 🎤 Voice Interaction
+##  Voice Interaction
 
 - Speech-to-text
 - Text-to-speech
@@ -67,7 +67,7 @@ alongside the user.
 
 ---
 
-## 🧠 Long-Term Memory
+##  Long-Term Memory
 
 Ada remembers:
 
@@ -82,7 +82,7 @@ Ada remembers:
 
 ---
 
-## 🧬 Soul File System
+##  Soul File System
 
 One of Ada's most important features.
 
@@ -135,7 +135,7 @@ Features:
 
 ---
 
-## 💻 Coding Companion
+##  Coding Companion
 
 - Code explanation
 - Debugging assistance
@@ -145,7 +145,7 @@ Features:
 
 ---
 
-## 📅 Meeting Assistant
+##  Meeting Assistant
 
 Ada can:
 
@@ -157,7 +157,7 @@ Ada can:
 
 ---
 
-## ⚙️ Workflow Automation
+##  Workflow Automation
 
 Ada can:
 
@@ -169,7 +169,7 @@ Ada can:
 
 ---
 
-## 👀 Workspace Awareness
+##  Workspace Awareness
 
 Ada understands:
 
@@ -181,7 +181,7 @@ Ada understands:
 
 ---
 
-## 🌙 Daily Reflections
+##  Daily Reflections
 
 Every day Ada generates:
 
@@ -192,7 +192,7 @@ Every day Ada generates:
 
 ---
 
-## 🧩 Personal Knowledge Base
+##  Personal Knowledge Base
 
 Ada builds a searchable memory system containing:
 
@@ -205,7 +205,7 @@ Ada builds a searchable memory system containing:
 
 ---
 
-## 🔍 Personal Search Engine
+##  Personal Search Engine
 
 Search across:
 
@@ -220,7 +220,7 @@ from one interface.
 
 ---
 
-## 📈 Project Historian
+##  Project Historian
 
 Ada remembers:
 
@@ -238,7 +238,7 @@ Even years later.
 
 ---
 
-## 🕒 Relationship Timeline
+##  Relationship Timeline
 
 Ada tracks:
 
